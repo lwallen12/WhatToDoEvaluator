@@ -1,0 +1,6 @@
+{
+    "host":"test1.ce8cn9mhhgds.us-east-1.rds.amazonaws.com",
+    "user":"'Wallen'",
+    "passwd":"'MyRDSdb1",
+    "db":"whattodo"
+}
